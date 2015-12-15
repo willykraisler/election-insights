@@ -1,0 +1,17 @@
+{
+  "user-provided": [{
+    "name": "AlchemyAPI-7h",
+    "label": "user-provided",
+    "credentials": {
+      "apikey": "93197036ee91a28a61631e1e8c82978b17eca38f"
+    }
+  }],
+  "mongolab": [{
+    "name": "MongoLab-bh",
+    "label": "mongolab",
+    "plan": "sandbox",
+    "credentials": {
+      "uri": "mongodb://outlier:outlier@ds027385.mongolab.com:27385/outlier"
+    }
+  }]
+}
