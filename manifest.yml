@@ -17,3 +17,5 @@ applications:
   services:
   - AlchemyAPI-7h
   - mongolab_ei_jk
+host: election-insights-andres89pz-1128
+name: election-insights-andres89pz-1128

@@ -5,3 +5,4 @@ public/*.css
 *.sublime-workspace
 *.sublime-project
 *.log
+.idea/
